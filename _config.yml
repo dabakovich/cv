@@ -1,9 +1,6 @@
 theme: jekyll-theme-minimal
-title: David Tabaka
+favicon: true
+blank_title: true
 description: Senior Front-End Developer and People Manager
 logo: logo.jpg
 color-scheme: auto
-sidebar:
-  - name: GitHub
-    icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/dabakovich
