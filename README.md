@@ -7,9 +7,11 @@ Lviv, Ukraine<br>
 
 ### 😏About Me
 
-Love to make high quolity code and organize team to keep quolity on the high level.
+Love to make high quality code and organize team to keep quality on the high level.
 
-> First solve the problem. Then write the code
+> First, solve the problem.<br>
+> Then, write the code.
+> 
 > \- John Johnson
 
 
@@ -25,16 +27,16 @@ Love to make high quolity code and organize team to keep quolity on the high lev
 
 ### 📈Projects
 
-[Rake](https://rake.ai) — *Messaging system*
+[Rake](https://rake.ai) — *Messaging system*<br>
 Allows businesses to connect external platforms (Twilio, FB, WhatsApp, web widgets) to the workspace in Rake and communicate with their customers.
 * Worked with the team on both backend and fronted side.
 * Completely developed mobile application using React Native and Typescript.
 * Took on people manager and technical leader responsibilities.
 
-[react-native-mention-input](https://www.npmjs.com/package/react-native-controlled-mentions) — *React Native library*
+[react-native-mention-input](https://www.npmjs.com/package/react-native-controlled-mentions) — *React Native library*<br>
 For now, in my subjective opinion, the best solution in React Native community for rendering mentions and rich text in the `TextInput` component. Developed first for the Rake project, then published in the NPM service.
 
-[Strobe Spectroscopy](https://github.com/dabakovich/StrobeSpectroscopy) — *Controller*
+[Strobe Spectroscopy](https://github.com/dabakovich/StrobeSpectroscopy) — *Controller*<br>
 Old student project. Application with Swing GUI, that control motor stepper throw Arduino, and getting analog data from the MC. This allows to computerize instrument for measuring light spectrum.
 
 
@@ -42,20 +44,19 @@ Old student project. Application with Swing GUI, that control motor stepper thro
 
 [**42flows.tech**](https://42flows.tech) (previously [Chatbots.Studio](https://chatbots.studio/))
 *SEPTEMBER 2019 - NOW*
-Great company that quickly grew to the top in chatbot development and designing the flows of information between customers, solutions and providers.
-
+Great company that quickly grew to the top in chatbot development and designing the flows of information between customers, solutions and providers.<br>
 * Full-Stack Developer
 * People Manager
 
 
 ### 🎓Education
-**LNU, Lviv** — Master
-*SEPTEMBER 2011 - JULY 2017*
+**LNU, Lviv** — Master<br>
+*SEPTEMBER 2011 - JULY 2017*<br>
 Six years I study at LNU, electronics faculty.
 
-**Logos, Lviv** — Student
-*APRIL 2016 - SEPTEMBER 2016*
-In this courses I deeply studied Java 8 and some frameworks (Hibernate, JPA, Spring).
+**Logos, Lviv** — Student<br>
+*APRIL 2016 - SEPTEMBER 2016*<br>
+In these courses I deeply studied Java 8 and some frameworks (Hibernate, JPA, Spring).
 
 
 ### 💬Languages
