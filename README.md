@@ -5,7 +5,7 @@ Lviv, Ukraine<br>
 [dabakovich@gmail.com](mailto:dabakovich@gmail.com)
 
 
-### 👋About me
+### 😏About Me
 
 Love to make high quolity code and organize team to keep quolity on the high level.
 
