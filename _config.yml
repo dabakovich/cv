@@ -1,4 +1,11 @@
 theme: jekyll-theme-minimal
-title: 
+title: David Tabaka
 description: Senior Front-End Developer and People Manager
-logo: logo.img
+logo: logo.jpg
+
+sidebar:
+  - name: Lviv, Ukraine
+  - name: GitHub
+    link: github.com/dabakovich
+  - name: dabakovich@gmail.com
+    link: mailto:dabakovich@gmail.com
