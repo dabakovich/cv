@@ -1,9 +1,3 @@
-## David Tabaka
-
-Lviv, Ukraine
-[github.com/dabakovich](https://github.com/dabakovich)
-[dabakovich@gmail.com](mailto:dabakovich@gmail.com)
-
 ### 👋About me
 
 Love to make high quolity code and organize team to keep quolity on the high level.
