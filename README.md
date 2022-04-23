@@ -50,13 +50,24 @@ Great company that quickly grew to the top in chatbot development and designing 
 
 
 ### 🎓Education
-**LNU, Lviv** — Master<br>
-*SEPTEMBER 2011 - JULY 2017*<br>
-Six years I study at LNU, electronics faculty.
+
+
+**Stratoplan Manager School** — Course "Team"<br>
+*SEPTEMBER 2021 - FEBRUARY 2022*<br>
+I studied and practiced the following topics in my current workplace:
+* Team audit on entry
+* Communication within the team (constructive confrontations)
+* Interviewing, hiring and firing
+* Setting and controlling tasks, delegation
+* Team status monitoring and feedback
 
 **Logos, Lviv** — Student<br>
 *APRIL 2016 - SEPTEMBER 2016*<br>
 In these courses I deeply studied Java 8 and some frameworks (Hibernate, JPA, Spring).
+
+**LNU, Lviv** — Master<br>
+*SEPTEMBER 2011 - JULY 2017*<br>
+Six years I study at LNU, electronics faculty.
 
 
 ### 💬Languages
