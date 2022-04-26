@@ -42,8 +42,8 @@ Old student project. Application with Swing GUI, that control motor stepper thro
 
 ### 👨‍💻Work Experience
 
-[**42flows.tech**](https://42flows.tech) (previously [Chatbots.Studio](https://chatbots.studio/))
-*SEPTEMBER 2019 - NOW*
+[**42flows.tech**](https://42flows.tech) (previously [Chatbots.Studio](https://chatbots.studio/))<br>
+*SEPTEMBER 2018 - NOW*
 Great company that quickly grew to the top in chatbot development and designing the flows of information between customers, solutions and providers.<br>
 * Full-Stack Developer
 * People Manager
