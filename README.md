@@ -17,10 +17,10 @@ Love to make high quality code and organize team to keep quality on the high lev
 
 ### 🎯Skills And Technology
 
-* React — 3 years
-* Node.JS — 2 years
-* Typescript — 2 years
-* React Native — 2 years
+* React — 3.5 years
+* Node.JS — 2.5 years
+* Typescript — 2.5 years
+* React Native — 2.5 years
 * People Manager — 1 year
 * Frontend Technical Leading — half of year
 
@@ -50,7 +50,6 @@ Great company that quickly grew to the top in chatbot development and designing 
 
 
 ### 🎓Education
-
 
 **Stratoplan Manager School** — Course "Team"<br>
 *SEPTEMBER 2021 - FEBRUARY 2022*<br>
