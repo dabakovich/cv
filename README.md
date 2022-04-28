@@ -17,8 +17,8 @@ Love to make high quality code and organize team to keep quality on the high lev
 
 ### 🎯Skills And Technology
 
-* React — 3.5 years
-* Node.JS — 2.5 years
+* React (with redux, redux-saga, redux-chill, redux-toolkit) — 3.5 years
+* Node.JS (with express, mongoose) — 2.5 years
 * Typescript — 2.5 years
 * React Native — 2.5 years
 * People Manager — 1 year
