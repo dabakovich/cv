@@ -5,7 +5,7 @@ Lviv, Ukraine<br>
 [dabakovich@gmail.com](mailto:dabakovich@gmail.com)
 
 
-### 😏About Me
+### 😏 About Me
 
 Love to make high quality code and organize team to keep quality on the high level.
 
@@ -15,7 +15,7 @@ Love to make high quality code and organize team to keep quality on the high lev
 > \- John Johnson
 
 
-### 🎯Skills And Technology
+### 🎯 Skills And Technology
 
 * React (with redux, redux-saga, redux-chill, redux-toolkit) — 3.5 years
 * Node.JS (with express, mongoose) — 2.5 years
@@ -25,7 +25,7 @@ Love to make high quality code and organize team to keep quality on the high lev
 * Frontend Technical Leading — half of year
 
 
-### 📈Projects
+### 📈 Projects
 
 [Rake](https://rake.ai) — *Messaging system*<br>
 Allows businesses to connect external platforms (Twilio, FB, WhatsApp, web widgets) to the workspace in Rake and communicate with their customers.
@@ -40,7 +40,7 @@ For now, in my subjective opinion, the best solution in React Native community f
 Old student project. Application with Swing GUI, that control motor stepper throw Arduino, and getting analog data from the MC. This allows to computerize instrument for measuring light spectrum.
 
 
-### 👨‍💻Work Experience
+### 👨‍💻 Work Experience
 
 [**42flows.tech**](https://42flows.tech) (previously [Chatbots.Studio](https://chatbots.studio/))<br>
 *SEPTEMBER 2018 - NOW*<br>
@@ -49,7 +49,7 @@ Great company that quickly grew to the top in chatbot development and designing 
 * People Manager
 
 
-### 🎓Education
+### 🎓 Education
 
 **Stratoplan Manager School** — Course "Team"<br>
 *SEPTEMBER 2021 - FEBRUARY 2022*<br>
@@ -69,7 +69,7 @@ In these courses I deeply studied Java 8 and some frameworks (Hibernate, JPA, Sp
 Six years I study at LNU, electronics faculty.
 
 
-### 💬Languages
+### 💬 Languages
 
 * **Ukrainian**: Native
 * **English**: Intermediate+
