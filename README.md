@@ -17,13 +17,14 @@ Love to make high quality code and organize team to keep quality on the high lev
 
 ### 🎯 Skills And Technology
 
-* React (with `react-router`, `redux`, `redux-saga`, `redux-chill`, `redux-toolkit`, `redux-form`, `formik`, `material-ui`) — 3.5 years
-* React Native (with `react-navigation`, `react-native-push-notifications`, `fastlane`, `codepush`) — 2.5 years
-* Node.JS (with `express`, `mongoose`) — 2.5 years
-* Typescript — 2.5 years
-* People Manager (regular 1-1s, PDP facilitation, motivation monitoring) — 1 year
-* Frontend Technical Leading (regular code reviews, best practices calls) — half of year
-
+|Skill/Technology|Level or duration|
+|---|---|
+|**React Native**<br>`react-navigation`, `react-native-push-notifications`, `fastlane`, `codepush`|🟢🟢🟢🟢🟢🟢|
+|**React**<br>`react-router`, `redux`, `redux-saga`, `redux-chill`, `redux-toolkit`, `redux-form`, `formik`, `material-ui`|🟢🟢🟢🟢🟢⚪|
+|**Typescript**<br>Interfaces, classes, types, enums, generics, utility types and much more|🟢🟢🟢🟢🟢⚪|
+|**Node.JS**<br>`express`, `mongoose`|🟢🟢🟢🟢⚪⚪|
+|**People Manager**<br>3-6 subordinates, regular 1-1s, PDP facilitation, motivation monitoring|1 year|
+|**Frontend Technical Leading**<br>regular code reviews, best practices calls|half of year|
 
 ### 📈 Projects
 
