@@ -17,7 +17,7 @@ Love to make high quality code and organize team to keep quality on the high lev
 
 ### 🎯 Skills And Technology
 
-|Skill/Technology|Level or duration|
+|Skill/Technology|<div style="width:128px;">Level/Duration</div>|
 |---|---|
 |**React Native**<br>`react-navigation`, `react-native-push-notifications`, `fastlane`, `codepush`|🟢🟢🟢🟢🟢🟢|
 |**React**<br>`react-router`, `redux`, `redux-saga`, `redux-chill`, `redux-toolkit`, `redux-form`, `formik`, `material-ui`|🟢🟢🟢🟢🟢⚪|
