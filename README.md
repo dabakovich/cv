@@ -20,7 +20,7 @@ My main principle at work:
 
 ### 🎯 Skills And Technology
 
-|Skill/Technology|Level/Duration|
+|Skill/Technology|Level/Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
 |---|---|
 |**React Native**<br>`react-navigation`, `react-native-push-notifications`, `fastlane`, `codepush`|🟢🟢🟢🟢🟢🟢|
 |**React**<br>`react-router`, `redux`, `redux-saga`, `redux-chill`, `redux-toolkit`, `redux-form`, `formik`, `material-ui`|🟢🟢🟢🟢🟢⚪|
