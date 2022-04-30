@@ -7,17 +7,20 @@ Lviv, Ukraine<br>
 
 ### 😏 About Me
 
-Love to make high quality code and organize team to keep quality on the high level.
+Love to make high quality code and organize a team to keep quality on the high level.
 
 > First, solve the problem.<br>
 > Then, write the code.
 > 
 > \- John Johnson
 
+My main principle at work:
+- As much “one source of truth” as possible, everywhere
+
 
 ### 🎯 Skills And Technology
 
-|Skill/Technology|<div style="width:128px;">Level/Duration</div>|
+|Skill/Technology|Level/Duration|
 |---|---|
 |**React Native**<br>`react-navigation`, `react-native-push-notifications`, `fastlane`, `codepush`|🟢🟢🟢🟢🟢🟢|
 |**React**<br>`react-router`, `redux`, `redux-saga`, `redux-chill`, `redux-toolkit`, `redux-form`, `formik`, `material-ui`|🟢🟢🟢🟢🟢⚪|
