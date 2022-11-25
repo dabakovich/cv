@@ -22,7 +22,7 @@ My main principle at work:
 
 |Skill/Technology|Level/Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
 |---|---|
-|**React Native**<br>`react-navigation`, `react-native-push-notifications`, `fastlane`, `codepush`|🟢🟢🟢🟢🟢🟢|
+|**React Native**<br>`react-navigation`, `react-native-push-notifications`, `fastlane`, `codepush`, `jest`, `detox`<br>CI/CD using Visual Studio App Center<br>Google Firebase tool integreations<br>Apps rollout on Apple App Store Connect and Google Play Console|🟢🟢🟢🟢🟢🟢|
 |**React**<br>`react-router`, `redux`, `redux-saga`, `redux-chill`, `redux-toolkit`, `redux-form`, `formik`, `material-ui`|🟢🟢🟢🟢🟢⚪|
 |**Typescript**<br>Interfaces, classes, types, enums, generics, utility types and much more|🟢🟢🟢🟢🟢⚪|
 |**Node.JS**<br>`express`, `mongoose`|🟢🟢🟢🟢⚪⚪|
@@ -31,7 +31,7 @@ My main principle at work:
 
 ### 📈 Projects
 
-[Rake](https://rake.ai) — *Messaging system*<br>
+**Rake** — *Messaging system*<br>
 Allows businesses to connect external platforms (Twilio, FB, WhatsApp, web widgets) to the workspace in Rake and communicate with their customers.
 * Worked with the team on both backend and fronted side.
 * Completely developed mobile application using React Native and Typescript.
@@ -46,8 +46,13 @@ Old student project. Application with Swing GUI, that control motor stepper thro
 
 ### 👨‍💻 Work Experience
 
+[**Forbytes**](https://forbytes.com/)<br>
+*MAY 2022 - NOW*<br>
+Great company that quickly grew to the top in chatbot development and designing the flows of information between customers, solutions and providers.<br>
+* Senior React Native Developer at [Guesty](https://www.guesty.com/) project.
+
 [**42flows.tech**](https://42flows.tech) (previously [Chatbots.Studio](https://chatbots.studio/))<br>
-*SEPTEMBER 2018 - NOW*<br>
+*SEPTEMBER 2018 - MAY 2022*<br>
 Great company that quickly grew to the top in chatbot development and designing the flows of information between customers, solutions and providers.<br>
 * Full-Stack Developer
 * People Manager
