@@ -31,6 +31,17 @@ My main principle at work:
 
 ### 📈 Projects
 
+**[Guesty](https://www.guesty.com/) Mobile Apps** — *Hospitality Management Platform*<br>
+As a Senior React Native Developer at Guesty, I played a critical role in developing and maintaining the "Guesty" and "Guesty for Hosts" mobile apps. These apps enable property managers to manage reservations, automate guest communication, and streamline operations. Some of my key contributions to this project included:
+
+* Collaborating with the team to develop and implement new features, such as integrating third-party APIs for payment processing and booking management.
+* Developing and maintaining a robust codebase using best practices and standards, with a strong emphasis on code quality and testing.
+* Coordinating with the design team to ensure a seamless user experience and a polished, professional look and feel.
+* Managing the deployment of the apps to the Apple App Store and Google Play Store, ensuring compliance with all platform-specific requirements and guidelines.
+* Leading efforts to optimize performance and minimize app size, ensuring a fast and responsive user experience for property managers.
+
+Overall, the Guesty project was a challenging and rewarding experience that allowed me to develop my skills as a React Native developer and work on a high-impact product that is transforming the hospitality industry.
+
 **Rake** — *Messaging system*<br>
 Allows businesses to connect external platforms (Twilio, FB, WhatsApp, web widgets) to the workspace in Rake and communicate with their customers.
 * Worked with the team on both backend and fronted side.
