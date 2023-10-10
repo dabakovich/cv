@@ -4,6 +4,8 @@ Lviv, Ukraine<br>
 [github.com/dabakovich](https://github.com/dabakovich)<br>
 [dabakovich@gmail.com](mailto:dabakovich@gmail.com)
 
+<img src="https://github.com/dabakovich/cv/blob/gh-pages/logo.png?raw=true" alt="drawing" width="256"/>
+
 
 ### 😏 About Me
 
