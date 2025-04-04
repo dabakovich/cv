@@ -26,6 +26,7 @@ My main principle at work:
 |**React**<br>`react-router`, `redux`, `redux-saga`, `redux-chill`, `redux-toolkit`, `redux-form`, `formik`, `material-ui`|🟢🟢🟢🟢🟢⚪|
 |**Typescript**<br>Interfaces, classes, types, enums, generics, utility types and much more|🟢🟢🟢🟢🟢⚪|
 |**Node.JS**<br>`express`, `mongoose`|🟢🟢🟢🟢⚪⚪|
+|**python**<br>`numpy`, `pandas`, `sklearn`, `surprise`, `tensorflow`<br>Developed recommend systems.<br>Custom neural networks with back propagation algorithm<br>AI Agent bots based on LLM models|🟢🟢🟢🟢⚪⚪|
 |**People Manager**<br>3-6 subordinates, regular 1-1s, PDP facilitation, motivation monitoring|1 year|
 |**Frontend Technical Leading**<br>regular code reviews, best practices calls|half of year|
 
@@ -70,6 +71,9 @@ Great company that quickly grew to the top in chatbot development and designing 
 
 
 ### 🎓 Education
+
+**robot_dreams** – How to build a recommendation model in Python in 2 days<br>
+*AUGUST 2024*
 
 **Stratoplan Manager School** — Course "Team"<br>
 *SEPTEMBER 2021 - FEBRUARY 2022*<br>
