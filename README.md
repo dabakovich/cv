@@ -31,6 +31,14 @@ My main principle at work:
 
 ### 📈 Projects
 
+**[Neural Network from Scratch](https://github.com/dabakovich/neural_network)** — _Pet Project_<br>
+Custom neural network implementation built from scratch using NumPy with full backpropagation algorithm. The project includes a reinforcement learning experiment where two AI agents learn to play TicTacToe through self-play.
+
+- Implemented complete neural network with support for multiple activation functions (ReLU, Leaky ReLU, Sigmoid, Tanh, Softmax) and proper weight initialization strategies (He, Xavier).
+- Developed backpropagation algorithm with support for both MSE and Log loss functions, including special Jacobian matrix handling for Softmax layers.
+- Built reinforcement learning system with two competing agents (9→18→18→9 architecture) that learn optimal TicTacToe strategies through reward-based training over thousands of self-play games.
+- Implemented real-time statistics tracking and visualization to monitor agent performance, win rates, and learning progression.
+
 **[Guesty](https://www.guesty.com/) Mobile Apps** — _Hospitality Management Platform_<br>
 As a Senior React Native Developer at Guesty, I played a critical role in developing and maintaining the "Guesty" and "Guesty for Hosts" mobile apps. These apps enable property managers to manage reservations, automate guest communication, and streamline operations. Some of my key contributions to this project included:
 
