@@ -31,7 +31,7 @@ My main principle at work:
 
 ### 📈 Projects
 
-**[Neural Network from Scratch](https://github.com/dabakovich/neural_network)** — _Pet Project_<br>
+**[Neural Network from Scratch](https://github.com/dabakovich/neural_network_playground)** — _Pet Project_<br>
 Custom neural network implementation built from scratch using NumPy with full backpropagation algorithm. The project includes a reinforcement learning experiment where two AI agents learn to play TicTacToe through self-play.
 
 - Implemented complete neural network with support for multiple activation functions (ReLU, Leaky ReLU, Sigmoid, Tanh, Softmax) and proper weight initialization strategies (He, Xavier).
