@@ -7,6 +7,7 @@ Lviv, Ukraine<br>
 ### 😏 About Me
 
 Love to make high quality code and organize a team to keep quality on the high level.
+I'm comfortable with both **AI Agents first** development and **classic manual** development.
 
 > First, solve the problem.<br>
 > Then, write the code.
