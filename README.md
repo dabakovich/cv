@@ -104,4 +104,4 @@ Six years I study at LNU, electronics faculty.
 ### 💬 Languages
 
 - **Ukrainian**: Native
-- **English**: B1
+- **English**: B2
