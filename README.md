@@ -47,15 +47,15 @@ Allows businesses to connect external platforms (Twilio, FB, WhatsApp, web widge
 For now, in my subjective opinion, the best solution in React Native community for rendering mentions and rich text in the `TextInput` component. Developed first for the Rake project, then published in the NPM service.
 
 **[Neural Network from Scratch](https://github.com/dabakovich/neural_network_playground)** — _Pet Project_<br>
-Custom neural network implementation built from scratch using NumPy with full backpropagation algorithm. The project includes a reinforcement learning experiment where two AI agents learn to play TicTacToe through self-play.
+Custom neural network implementation built from scratch using NumPy with full back-propagation algorithm. The project includes a reinforcement learning experiment where two AI agents learn to play TicTacToe through self-play.
 
 - Implemented complete neural network with support for multiple activation functions (ReLU, Leaky ReLU, Sigmoid, Tanh, Softmax) and proper weight initialization strategies (He, Xavier).
-- Developed backpropagation algorithm with support for both MSE and Log loss functions, including special Jacobian matrix handling for Softmax layers.
+- Developed back-propagation algorithm with support for both MSE and Log loss functions, including special Jacobian matrix handling for Softmax layers.
 - Built reinforcement learning system with two competing agents (9→18→18→9 architecture) that learn optimal TicTacToe strategies through reward-based training over thousands of self-play games.
 - Implemented real-time statistics tracking and visualization to monitor agent performance, win rates, and learning progression.
 
 [Strobe Spectroscopy](https://github.com/dabakovich/StrobeSpectroscopy) — _Controller_<br>
-Early student project. Application with Swing GUI, that control motor stepper throw Arduino, and getting analog data from the MC. This allows to computerize instrument for measuring light spectrum.
+Early student project. Application with Swing GUI, that control motor stepper through Arduino, and reading analog data from the micro-controller. This allows to computerize instrument for measuring light spectrum.
 
 ### 🎓 Education
 
