@@ -7,22 +7,22 @@ Lviv, Ukraine<br>
 
 ### About Me
 
-Senior React Native Engineer, 6+ years building production mobile apps used by **thousands of property managers worldwide**.
-At Guesty: shipped 50+ App Store / Play Store releases, drove key performance wins (initial load 700ms → 150ms, 2d scroll 20 → 60 FPS).
-Author of `react-native-controlled-mentions` (30k+ weekly npm downloads). Mentored 3–6 engineers; comfortable as tech lead.
+Senior React Native Engineer, 6+ years building production mobile apps used by **thousands of property managers worldwide**.<br>
+At Guesty: shipped 50+ App Store / Play Store releases, drove key performance wins (initial load 700ms → 150ms, 2d scroll 20 → 60 FPS).<br>
+Author of `react-native-controlled-mentions` (30k+ weekly npm downloads). Mentored 3–6 engineers; comfortable as tech lead.<br>
 
 ### Skills And Technology
 
-**Mobile (Primary):** React Native, TypeScript, react-navigation, Reanimated, Redux Toolkit, MobX, MMKV/AsyncStorage, Jest, Detox, Firebase, App Store Connect, Google Play Console
-**Native bridging:** Swift, Kotlin, Objective-C basics, custom native modules (including New Architecture)
-**Mobile delivery:** CI/CD (Fastlane, GitHub Actions), OTA updates (CodePush), crash reporting, A/B testing, feature flags, Push Notifications, Deep Linking
-**Frontend:** React, Redux Toolkit, MobX, Material UI, React Router
-**Backend:** Node.js, Express, NestJS, REST, MongoDB/Mongoose
-**ML/AI:** Python, NumPy, Pandas, scikit-learn, TensorFlow, LLM-based agents
-**Practices:** TDD, code review, performance profiling, i18n,
+**Mobile (Primary):** React Native, TypeScript, react-navigation, Reanimated, Redux Toolkit, MobX, MMKV/AsyncStorage, Jest, Detox, Firebase, App Store Connect, Google Play Console<br>
+**Native bridging:** Swift, Kotlin, Objective-C basics, custom native modules (including New Architecture)<br>
+**Mobile delivery:** CI/CD (Fastlane, GitHub Actions), OTA updates (CodePush), crash reporting, A/B testing, feature flags, Push Notifications, Deep Linking<br>
+**Frontend:** React, Redux Toolkit, MobX, Material UI, React Router<br>
+**Backend:** Node.js, Express, NestJS, REST, MongoDB/Mongoose<br>
+**ML/AI:** Python, NumPy, Pandas, scikit-learn, TensorFlow, LLM-based agents<br>
+**Practices:** TDD, code review, performance profiling, i18n
 
 ### Leadership
-People management (3–6 reports), 1:1s, PDPs, hiring loops, mentorship, code review culture.
+People management (3–6 reports), 1:1s, PDPs, hiring loops, mentorship, code review culture.<br>
 Tech-lead duties (architecture, planning, best practices implementation and control).
 
 ### Work Experience
@@ -30,6 +30,7 @@ Tech-lead duties (architecture, planning, best practices implementation and cont
 **Senior React Native Engineer [Guesty](https://apps.apple.com/us/app/guesty/id1344816619) Mobile Apps** at [**Forbytes**](https://forbytes.com/)<br>
 _MAY 2022 - MAY 2026_  · iOS + Android · Hospitality / PMS platform<br>
 _Hospitality Management Platform_<br>
+
 As a Senior React Native Engineer at Guesty, I played a critical role in developing and maintaining the "Guesty" and "Guesty for Hosts" mobile apps. These apps enable property managers to manage reservations, automate guest communication, and streamline operations. Some of my key contributions to this project included:
 
 - Managed migration legacy code to application from scratch, decreased initial load from 2s to 600ms.
