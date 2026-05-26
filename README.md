@@ -7,22 +7,19 @@ Lviv, Ukraine<br>
 
 ### 😏 About Me
 
-Senior React Native Engineer with 6+ years of experience in mobile and full-stack development. Strong in shipping production mobile apps, performance optimization, CI/CD, and team collaboration. Experienced in mentoring engineers and leading technical reviews.
+Senior React Native Engineer with 6+ years building production mobile apps used by **thousands of property managers worldwide** at Guesty. Shipped 50+ releases across iOS & Android. Mentored 3–6 engineers at 42flows.tech. Author of `react-native-controlled-mentions` (30k+ weekly NPM downloads).
 
 ### 🎯 Skills And Technology
 
-| Skill/Technology                                                                                                                                                                                                                                                                                                                                                       | Level/Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| **React Native**<br>`react-navigation`, `react-native-reanimated`, `fastlane`, `codepush`, `jest`, `detox`<br>Apps rollout on Apple **App Store Connect** and Google Play Console<br>Google **Firebase** tools integrations<br>CI/CD using **Visual Studio App Center**<br>Using **TypeScript** without `any`'s<br>Profiling performance in the latest **RN DevTools** | 🟢🟢🟢🟢🟢🟢                                                   |
-| **React**<br>Routing, Redux Frameworks, MobX frameworks, Material UI                                                                                                                                                                                                                                                                                                   | 🟢🟢🟢🟢🟢⚪                                                   |
-| **python**<br>`numpy`, `pandas`, `sklearn`, `surprise`, `tensorflow`<br>Developed recommend systems.<br>Custom neural networks with back propagation algorithm<br>Reinforcement learning algorithms, learning agents on a simple Tic Tac Toe game<br>AI Agent bots based on LLM models                                                                                 | 🟢🟢🟢🟢⚪⚪                                                   |
-| **Node.js**<br>`express`, `mongoose`, `NestJS`                                                                                                                                                                                                                                                                                                                         | 🟢🟢🟢🟢⚪⚪                                                   |
-| **People Manager**<br>3-6 subordinates, regular 1-1s, PDP facilitation, motivation monitoring                                                                                                                                                                                                                                                                          | 1 year                                                   |
-| **Frontend Technical Leading**<br>regular code reviews, best practices calls                                                                                                                                                                                                                                                                                           | half of year                                             |
+**Mobile (Primary):** React Native, TypeScript, react-navigation, Reanimated, Redux/MobX, Jest, Detox, Fastlane, CodePush, Firebase, App Store Connect, Google Play Console
+**Frontend:** React, Redux Toolkit, MobX, Material UI, React Router
+**Backend:** Node.js, Express, NestJS, MongoDB/Mongoose
+**ML/AI:** Python, NumPy, Pandas, scikit-learn, TensorFlow, LLM-based agents
+**Leadership:** People management (3–6 reports), 1:1s, PDPs, hiring, code reviews, tech-lead duties
 
 ### 👨‍💻 Work Experience
 
-**[Guesty](https://www.guesty.com/) Mobile Apps** at [**Forbytes**](https://forbytes.com/)<br>
+**[Guesty](https://apps.apple.com/us/app/guesty/id1344816619) Mobile Apps** at [**Forbytes**](https://forbytes.com/)<br>
 _MAY 2022 - MAY 2026_<br>
 _Hospitality Management Platform_<br>
 As a Senior React Native Engineer at Guesty, I played a critical role in developing and maintaining the "Guesty" and "Guesty for Hosts" mobile apps. These apps enable property managers to manage reservations, automate guest communication, and streamline operations. Some of my key contributions to this project included:
@@ -30,8 +27,8 @@ As a Senior React Native Engineer at Guesty, I played a critical role in develop
 - Collaborating with the team to develop and implement new features, such as integrating third-party APIs for payment processing and booking management.
 - Developing and maintaining a robust codebase using best practices and standards, with a strong emphasis on code quality and testing.
 - Coordinating with the design team to ensure a seamless user experience and a polished, professional look and feel.
-- Managing the deployment of the apps to the Apple App Store and Google Play Store, ensuring compliance with all platform-specific requirements and guidelines.
-- Leading efforts to optimize performance and minimize app size, ensuring a fast and responsive user experience for property managers.
+- Led **50+** App Store/Play Store releases with zero critical rollback
+- Implemented virtualized grid (like FlatList but 2d), optimized initial load from **700ms to 150ms**, increased scroll FPS **from 20 to 60**
 
 **Rake** at [**42flows.tech**](https://42flows.tech) (previously [Chatbots.Studio](https://chatbots.studio/))<br>
 _SEPTEMBER 2018 - MAY 2022_<br>
@@ -40,7 +37,9 @@ Allows businesses to connect external platforms (Twilio, FB, WhatsApp, web widge
 
 - Worked with the team on both backend and frontend side.
 - Completely developed mobile application using React Native and TypeScript.
-- Took on people manager and technical leader responsibilities.
+- Owned CI/CD on App Center → migrated to Fastlane, cutting release time from **2h to 25m**.
+- Drove TypeScript strict-mode rollout across the codebase, eliminating `any` from **400+ files**.
+- Mentored 3 mid-level engineers; ran weekly tech-review calls and PDP cycles.
 
 ### 📈 Projects
 
