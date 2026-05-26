@@ -1,31 +1,27 @@
-## 👋 Welcome
 
 Lviv, Ukraine<br>
 [github.com/dabakovich](https://github.com/dabakovich)<br>
-[dabakovich@gmail.com](mailto:dabakovich@gmail.com)
+[dabakovich@gmail.com](mailto:dabakovich@gmail.com)<br>
+[LinkedIn](https://www.linkedin.com/in/david-tabaka-394939107)<br>
+[Telegram](t.me/dabakovich)<br>
 
 ### 😏 About Me
 
-Love to make high quality code and organize a team to keep quality on the high level.
+Senior Software Engineer with 6 years of experience in mobile and full-stack development. Focused on delivering high-quality, scalable applications and leading engineering teams.
 I'm comfortable with both **AI Agents first** development and **classic manual** development.
-
-> First, solve the problem.<br>
-> Then, write the code.
->
-> \- John Johnson
 
 My main principle at work:
 
-- As much “one source of truth” as possible, everywhere
+> As much “one source of truth” as possible, everywhere
 
 ### 🎯 Skills And Technology
 
 | Skill/Technology                                                                                                                                                                                                                                                                                                                                                       | Level/Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| **React Native**<br>`react-navigation`, `react-native-reanimated`, `fastlane`, `codepush`, `jest`, `detox`<br>Apps rollout on Apple **App Store Connect** and Google Play Console<br>Google **Firebase** tools integreations<br>CI/CD using **Visual Studio App Center**<br>Using **TypeScript** without `any`'s<br>Profiling performace in the latest **RN DevTools** | 🟢🟢🟢🟢🟢🟢                                             |
-| **React**<br>Routing, Redux Frameworks, MobX frameworks, Material UI                                                                                                                                                                                                                                                                                                   | 🟢🟢🟢🟢🟢⚪                                             |
-| **python**<br>`numpy`, `pandas`, `sklearn`, `surprise`, `tensorflow`<br>Developed recommend systems.<br>Custom neural networks with back propagation algorithm<br>Reinforcement learning algorithms, learning agents on a simple Tic Tac Toe game<br>AI Agent bots based on LLM models                                                                                 | 🟢🟢🟢🟢⚪⚪                                             |
-| **Node.JS**<br>`express`, `mongoose`                                                                                                                                                                                                                                                                                                                                   | 🟢🟢🟢🟢⚪⚪                                             |
+| **React Native**<br>`react-navigation`, `react-native-reanimated`, `fastlane`, `codepush`, `jest`, `detox`<br>Apps rollout on Apple **App Store Connect** and Google Play Console<br>Google **Firebase** tools integreations<br>CI/CD using **Visual Studio App Center**<br>Using **TypeScript** without `any`'s<br>Profiling performace in the latest **RN DevTools** | 🟢🟢🟢🟢🟢🟢                                                   |
+| **React**<br>Routing, Redux Frameworks, MobX frameworks, Material UI                                                                                                                                                                                                                                                                                                   | 🟢🟢🟢🟢🟢⚪                                                   |
+| **python**<br>`numpy`, `pandas`, `sklearn`, `surprise`, `tensorflow`<br>Developed recommend systems.<br>Custom neural networks with back propagation algorithm<br>Reinforcement learning algorithms, learning agents on a simple Tic Tac Toe game<br>AI Agent bots based on LLM models                                                                                 | 🟢🟢🟢🟢⚪⚪                                                   |
+| **Node.JS**<br>`express`, `mongoose`, `NestJS`                                                                                                                                                                                                                                                                                                                         | 🟢🟢🟢🟢⚪⚪                                                   |
 | **People Manager**<br>3-6 subordinates, regular 1-1s, PDP facilitation, motivation monitoring                                                                                                                                                                                                                                                                          | 1 year                                                   |
 | **Frontend Technical Leading**<br>regular code reviews, best practices calls                                                                                                                                                                                                                                                                                           | half of year                                             |
 
@@ -40,7 +36,7 @@ Custom neural network implementation built from scratch using NumPy with full ba
 - Implemented real-time statistics tracking and visualization to monitor agent performance, win rates, and learning progression.
 
 **[Guesty](https://www.guesty.com/) Mobile Apps** — _Hospitality Management Platform_<br>
-As a Senior React Native Developer at Guesty, I played a critical role in developing and maintaining the "Guesty" and "Guesty for Hosts" mobile apps. These apps enable property managers to manage reservations, automate guest communication, and streamline operations. Some of my key contributions to this project included:
+As a Senior React Native Engineer at Guesty, I played a critical role in developing and maintaining the "Guesty" and "Guesty for Hosts" mobile apps. These apps enable property managers to manage reservations, automate guest communication, and streamline operations. Some of my key contributions to this project included:
 
 - Collaborating with the team to develop and implement new features, such as integrating third-party APIs for payment processing and booking management.
 - Developing and maintaining a robust codebase using best practices and standards, with a strong emphasis on code quality and testing.
@@ -57,7 +53,7 @@ Allows businesses to connect external platforms (Twilio, FB, WhatsApp, web widge
 - Completely developed mobile application using React Native and Typescript.
 - Took on people manager and technical leader responsibilities.
 
-[react-native-mention-input](https://www.npmjs.com/package/react-native-controlled-mentions) — _React Native library_<br>
+[react-native-mention-input](https://www.npmjs.com/package/react-native-controlled-mentions) — _React Native community library 30k+ NPM weekly downloads_<br>
 For now, in my subjective opinion, the best solution in React Native community for rendering mentions and rich text in the `TextInput` component. Developed first for the Rake project, then published in the NPM service.
 
 [Strobe Spectroscopy](https://github.com/dabakovich/StrobeSpectroscopy) — _Controller_<br>
@@ -66,10 +62,10 @@ Old student project. Application with Swing GUI, that control motor stepper thro
 ### 👨‍💻 Work Experience
 
 [**Forbytes**](https://forbytes.com/)<br>
-_MAY 2022 - NOW_<br>
+_MAY 2022 - MAY 2026_<br>
 Ukrainian company of dedicated and enthusiastic software engineers and IT specialists.<br>
 
-- Senior React Native Developer at [Guesty](https://www.guesty.com/) project.
+- Senior React Native Engineer at [Guesty](https://www.guesty.com/) project.
 
 [**42flows.tech**](https://42flows.tech) (previously [Chatbots.Studio](https://chatbots.studio/))<br>
 _SEPTEMBER 2018 - MAY 2022_<br>
