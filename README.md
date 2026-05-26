@@ -91,4 +91,4 @@ _SEPTEMBER 2011 - JULY 2017_<br>
 ### Languages
 
 - **Ukrainian**: Native
-- **English**: B2
+- **English**: Upper-Intermediate (B2), comfortable with daily standups, written communication, and code reviews
