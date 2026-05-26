@@ -5,11 +5,11 @@ Lviv, Ukraine<br>
 [LinkedIn](https://www.linkedin.com/in/david-tabaka-394939107)<br>
 [Telegram](https://t.me/dabakovich)<br>
 
-### 😏 About Me
+### About Me
 
 Senior React Native Engineer with 6+ years building production mobile apps used by **thousands of property managers worldwide** at Guesty. Shipped 50+ releases across iOS & Android. Mentored 3–6 engineers at 42flows.tech. Author of `react-native-controlled-mentions` (30k+ weekly NPM downloads).
 
-### 🎯 Skills And Technology
+### Skills And Technology
 
 **Mobile (Primary):** React Native, TypeScript, react-navigation, Reanimated, Redux/MobX, Jest, Detox, Fastlane, CodePush, Firebase, App Store Connect, Google Play Console
 **Frontend:** React, Redux Toolkit, MobX, Material UI, React Router
@@ -17,7 +17,7 @@ Senior React Native Engineer with 6+ years building production mobile apps used 
 **ML/AI:** Python, NumPy, Pandas, scikit-learn, TensorFlow, LLM-based agents
 **Leadership:** People management (3–6 reports), 1:1s, PDPs, hiring, code reviews, tech-lead duties
 
-### 👨‍💻 Work Experience
+### Work Experience
 
 **[Guesty](https://apps.apple.com/us/app/guesty/id1344816619) Mobile Apps** at [**Forbytes**](https://forbytes.com/)<br>
 _MAY 2022 - MAY 2026_<br>
@@ -41,7 +41,7 @@ Allows businesses to connect external platforms (Twilio, FB, WhatsApp, web widge
 - Drove TypeScript strict-mode rollout across the codebase, eliminating `any` from **400+ files**.
 - Mentored 3 mid-level engineers; ran weekly tech-review calls and PDP cycles.
 
-### 📈 Projects
+### Projects
 
 **[react-native-controlled-mentions](https://www.npmjs.com/package/react-native-controlled-mentions)** — _React Native community library 30k+ NPM weekly downloads_<br>
 For now, in my subjective opinion, the best solution in React Native community for rendering mentions and rich text in the `TextInput` component. Developed first for the Rake project, then published in the NPM service.
@@ -57,7 +57,7 @@ Custom neural network implementation built from scratch using NumPy with full ba
 [Strobe Spectroscopy](https://github.com/dabakovich/StrobeSpectroscopy) — _Controller_<br>
 Early student project. Application with Swing GUI, that control motor stepper through Arduino, and reading analog data from the micro-controller. This allows to computerize instrument for measuring light spectrum.
 
-### 🎓 Education
+### Education
 
 **robot_dreams** – How to build a recommendation model in Python in 2 days<br>
 _AUGUST 2024_
@@ -76,7 +76,7 @@ _APRIL 2016 - SEPTEMBER 2016_<br>
 **LNU, Lviv** — LNU, Master’s degree, Electronics<br>
 _SEPTEMBER 2011 - JULY 2017_<br>
 
-### 💬 Languages
+### Languages
 
 - **Ukrainian**: Native
 - **English**: B2
