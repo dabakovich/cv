@@ -24,6 +24,8 @@ Senior React Native Engineer with 6+ years across the full mobile stack — Reac
 
 **Mobile delivery:** CI/CD (Fastlane, GitHub Actions), OTA updates (CodePush), crash reporting, A/B testing, feature flags, Push Notifications, Deep Linking  
 
+**AI-augmented development:** Daily driver of AI coding agents (Cursor, Claude Code) for feature development, refactoring, and code review — 1.5+ years of production use.  
+
 **Frontend:** React, Redux Toolkit, MobX, Material UI, React Router  
 
 **Backend:** Node.js, Express, NestJS, REST, MongoDB/Mongoose  
