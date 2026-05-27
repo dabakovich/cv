@@ -17,6 +17,7 @@ Senior React Native Engineer, 6+ years building production mobile apps used by *
 - Cut Guesty app initial load 78% (700 ms → 150 ms) and tripled scroll FPS by building a virtualized 2D grid for React Native.
 - Shipped 50+ store releases with zero critical rollbacks across iOS + Android.
 - Author of `react-native-controlled-mentions` — 30k+ weekly npm downloads, used in production by multiple companies.
+- Volunteer contributor to **Smart Event Detector** (2024) — Ukraine-defense acoustic-triangulation system that locates battlefield explosion sites via sound.
 - Mentored 3–6 engineers with weekly 1:1s, PDPs.  
 
 
@@ -80,6 +81,15 @@ Allows businesses to connect external platforms (Twilio, FB, WhatsApp, web widge
 - Mentored 3 mid-level engineers; ran weekly tech-review calls and PDP cycles.
 
 ### Projects
+
+**Smart Event Detector** — *Volunteer project — Ukraine defense · Feb 2024 – Jul 2024*  
+
+Distributed acoustic-triangulation system that pinpoints battlefield explosion sites by measuring the arrival-time delta of the shockwave across a network of Android devices — conceptually GPS, but with sound waves instead of radio. The React Native app continuously analyzes the raw audio stream, detects explosion events locally with high-precision timestamps, and forwards them to the backend, which solves for the source coordinates via time-difference-of-arrival (TDoA).
+
+- Built the React Native client: continuous raw-audio capture, on-device explosion detection, and precise event timestamping for server-side multilateration.
+- Authored a custom **TurboModule (New Architecture)** to run the real-time sound-event detection off the JS thread, cutting per-batch processing from **~60 ms to <1 ms (60× faster)** — essential for the sub-millisecond timestamp accuracy the TDoA math requires.
+- Designed the mobile↔backend event protocol so multiple devices can stream synchronized detection events for coordinate triangulation.
+- Integrated **Firebase Realtime Database** for low-latency device presence and live GPS tracking, giving operators an instant map view of which devices are online and where on the battlefield.
 
 **[react-native-controlled-mentions](https://www.npmjs.com/package/react-native-controlled-mentions)** — *React Native community library 30k+ NPM weekly downloads, ★ 250+ on GitHub*  
 
