@@ -10,10 +10,10 @@ Lviv, Ukraine 🇺🇦
 
 
 ### About Me
-
-Senior React Native Engineer, 6+ years building production mobile apps used by **thousands of property managers worldwide**.  
+Senior React Native Engineer with 6+ years across the full mobile stack — React Native and TypeScript up the stack, Swift/Kotlin and TurboModules down it. Tech-lead and people-manager experience (3–6 direct reports) on top, plus a public open-source footprint outside work.
 
 ### Selected Achievements
+- Built and maintained Guesty mobile apps used daily by **thousands of property managers worldwide** across iOS + Android.
 - Cut Guesty app initial load 78% (700 ms → 150 ms) and tripled scroll FPS by building a virtualized 2D grid for React Native.
 - Shipped 50+ store releases with zero critical rollbacks across iOS + Android.
 - Author of `react-native-controlled-mentions` — 30k+ weekly npm downloads, used in production by multiple companies.
