@@ -34,7 +34,7 @@ Senior React Native Engineer with 6+ years across the full mobile stack — Reac
 
 ### Other interests
 
-**ML/AI:** Python, NumPy, Pandas, scikit-learn, TensorFlow, Reinforcement Learning, genetic algorithm LLM-based agents  
+**ML/AI:** Python, NumPy, Pandas, scikit-learn, TensorFlow, Reinforcement Learning, genetic algorithm LLM-based agents, LangChain, LangGraph, RAG  
 
 
 ### Leadership
@@ -108,6 +108,12 @@ Custom neural network implementation built from scratch using NumPy with full ba
 Early student project. Application with Swing GUI, that control motor stepper through Arduino, and reading analog data from the micro-controller. This allows to computerize instrument for measuring light spectrum.
 
 ### Education
+
+**[Ready Tensor](https://app.readytensor.ai/hubs/ready_tensor_certifications)** — Agentic AI Developer Certification Program  
+
+May 2025 - July 2025  
+
+- Built agentic systems using LangChain with RAG (Retrieval-Augmented Generation) pipelines and vector database integration.
 
 **robot_dreams** – How to build a recommendation model in Python in 2 days  
 
