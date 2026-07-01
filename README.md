@@ -5,7 +5,7 @@ Lviv, Ukraine 🇺🇦
 [dabakovich@gmail.com](mailto:dabakovich@gmail.com)  
 
 ### About Me
-Senior React Native Engineer with 6+ years across the full mobile stack — React Native and TypeScript up the stack, Swift/Kotlin and TurboModules down it. Tech-lead and people-manager experience (3–6 direct reports) on top, plus a public open-source footprint outside work.
+Senior React Native Engineer with 6+ years across the full mobile stack — React Native and TypeScript up the stack, Swift/Kotlin and TurboModules down it. Tech-lead and people-manager experience (3–6 direct reports) on top, plus a public open-source footprint outside work. Agent-native for 1.5+ years: ~98% of my code is now agent-generated, driven through disciplined planning, custom skills, and MCP — not vibe-coding, but engineered agent workflows.
 
 ### Selected Achievements
 - Built and maintained Guesty mobile apps used daily by **thousands of property managers worldwide** across iOS + Android.
@@ -13,7 +13,20 @@ Senior React Native Engineer with 6+ years across the full mobile stack — Reac
 - Shipped 50+ store releases with zero critical rollbacks across iOS + Android.
 - Author of `react-native-controlled-mentions` — 30k+ weekly npm downloads, used in production by multiple companies.
 - Volunteer contributor to **Smart Event Detector** (2024) — Ukraine-defense acoustic-triangulation system that locates battlefield explosion sites via sound.
+- Pioneered **reliable autonomous agent loops for React Native** — wired Claude Code to Maestro e2e tests so the agent runs the app on-device, reads real UI results, and self-corrects without a human in the loop.
+- Built my own coding agent (**[ai-project-assistant](https://github.com/dabakovich/ai-project-assistant)**) in early 2024, before Cursor/Claude Code were mainstream; now run **~98% agent-generated code** across production work with 1.5+ years of regular agentic development.
 - Mentored 3–6 engineers with weekly 1:1s, PDPs.  
+
+
+### Agentic AI Development
+
+Two years running production development through AI agents, evolving from a custom-built agent to today's tooling. The workflow is engineered, not ad-hoc:
+
+- **Planning-first:** decompose work into specs and plans before the agent writes code.
+- **Skills:** compose reusable agent skills — primarily [superpowers](https://github.com/obra/superpowers)-based, with other tech-specific or custom skills per project.
+- **MCP:** integrate tools and context sources via Model Context Protocol.
+- **Agent loops:** closed-loop self-correction, including a Maestro-based approach for real React Native e2e verification on device.
+- **Tooling:** Claude Code, Codex, and Cursor — matched to the task.
 
 
 ### Skills And Technology
@@ -24,7 +37,7 @@ Senior React Native Engineer with 6+ years across the full mobile stack — Reac
 
 **Mobile delivery:** CI/CD (Fastlane, GitHub Actions), OTA updates (CodePush), crash reporting, A/B testing, feature flags, Push Notifications, Deep Linking  
 
-**AI-augmented development:** Daily driver of AI coding agents (Cursor, Claude Code) for feature development, refactoring, and code review — 1.5+ years of production use.  
+**Agentic AI development:** Claude Code, Codex, Cursor · agent skills (superpowers + custom) · MCP · spec/plan-driven workflows · closed-loop agents (Maestro e2e for RN) · 2+ years, ~98% agent-generated code  
 
 **Frontend:** React, Redux Toolkit, MobX, Material UI, React Router  
 
@@ -91,6 +104,14 @@ Distributed acoustic-triangulation system that pinpoints battlefield explosion s
 **[react-native-controlled-mentions](https://www.npmjs.com/package/react-native-controlled-mentions)** — *React Native community library 30k+ NPM weekly downloads, ★ 250+ on GitHub*  
 
 Widely-used React Native library for mentions and rich text inside TextInput, no native modules required. 30k+ weekly npm downloads, 250+ GitHub stars, used in production by multiple companies. Originally built for Rake, then open-sourced.
+
+**[ai-project-assistant](https://github.com/dabakovich/ai-project-assistant)** — *Custom AI coding agent — Jan 2024*
+
+Autonomous coding assistant I built to navigate, read, and modify a codebase and run Git operations from natural-language tasks — a self-made agent that predated mainstream tools like Cursor and Claude Code, and shaped how I work with agents today.
+
+- Implemented an agent loop on OpenAI GPT models with tool/function-calling to drive file navigation, read/create/modify operations, and Git diffs.
+- Architected around clear modules — AI interaction, file-system operations, and shared utilities for message generation and tool-call handling.
+- Built entirely in TypeScript on Node.js, with type-safe tool definitions bridging the model to the local project.
 
 **[Neural Network from Scratch](https://github.com/dabakovich/neural_network_playground)** — *Pet Project*  
 
