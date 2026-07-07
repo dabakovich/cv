@@ -1,8 +1,12 @@
 Lviv, Ukraine 🇺🇦  
 [LinkedIn](https://www.linkedin.com/in/david-tabaka-394939107)  
+
 [Telegram](https://t.me/dabakovich)  
+
 [github.com/dabakovich](https://github.com/dabakovich)  
+
 [dabakovich@gmail.com](mailto:dabakovich@gmail.com)  
+
 
 ### About Me
 Senior React Native Engineer with 6+ years across the full mobile stack — React Native and TypeScript up the stack, Swift/Kotlin and TurboModules down it. Tech-lead and people-manager experience (3–6 direct reports) on top, plus a public open-source footprint outside work. Agent-native for 1.5+ years: ~98% of my code is now agent-generated, driven through disciplined planning, custom skills, and MCP — not vibe-coding, but engineered agent workflows.
