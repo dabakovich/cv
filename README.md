@@ -96,6 +96,13 @@ Allows businesses to connect external platforms (Twilio, FB, WhatsApp, web widge
 
 ### Projects
 
+**[DevYoga](https://github.com/dabakovich/dev-yoga)** — *Pet Project — AI task tracker built in one week · Jun 2026*  
+
+Full-stack task tracker for developers with a built-in conversational **AI agent** that manages the board through chat. React Native app on the latest Expo SDK 56 with native SwiftUI components, NestJS backend — designed, built, and shipped **in one week**.
+
+- Built a multi-step AI agent (Claude via Vercel AI SDK) with tool-calling for task creation, "plan my day" prioritization, and triage — with human-in-the-loop confirmation before writes and persistent agent memory.
+- Implemented stateless chat: the transcript is persisted on-device (MMKV) and replayed per request, keeping the backend session-free.
+
 **Smart Event Detector** — *Volunteer project — Ukraine defense · Feb 2024 – Jul 2024*  
 
 Distributed acoustic-triangulation system that pinpoints battlefield explosion sites by measuring the arrival-time delta of the shockwave across a network of Android devices — conceptually GPS, but with sound waves instead of radio. The React Native app continuously analyzes the raw audio stream, detects explosion events locally with high-precision timestamps, and forwards them to the backend, which solves for the source coordinates via time-difference-of-arrival (TDoA).
